@@ -1,0 +1,20 @@
+{
+  "name": "js-library",
+  "version": "1.0.0",
+  "description": "odin project course",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caloyevasco/js-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caloyevasco/js-library/issues"
+  },
+  "homepage": "https://github.com/caloyevasco/js-library#readme"
+}
